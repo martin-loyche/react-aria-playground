@@ -1,6 +1,6 @@
 import "./App.css";
 import reactLogo from "./assets/react.svg";
-import ReactAriaDialog from "./components/ReactAriaDialog";
+import ReactAriaDialog from "./components/Dialog/ReactAriaDialog";
 import viteLogo from "/vite.svg";
 
 function App() {
